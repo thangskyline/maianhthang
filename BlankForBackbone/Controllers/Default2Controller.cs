@@ -13,7 +13,7 @@ namespace BlankForBackbone.Controllers
 
         public ActionResult Index()
         {
-            int b = 1;
+            int b = 12;
             return View();
         }
 
